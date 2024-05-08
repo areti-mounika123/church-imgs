@@ -1,0 +1,155 @@
+#div1{
+    background-image: url(https://t4.ftcdn.net/jpg/02/97/78/03/360_F_297780357_pK8VCA7wctbTFusAGiCfcoxbJLRwC9Bs.jpg);
+    width: 100%;
+    height: 500px;
+    position: relative;
+}
+
+#span1{
+    font-size: xx-large;
+    font-weight: bolder;
+    padding: 15px;
+    border: 10px;
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+}
+
+#span2{
+    font-size: 16px;
+    font-style: oblique;
+    padding: 15px;
+    border: 10px;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 45%;
+
+}
+
+#button1{
+    background-color: red;
+    color: white;
+    padding: 15px;
+    position: absolute;
+    top: 65%;
+    left: 50%;
+}
+
+#div2{
+    position: relative;
+    margin: 10px;
+    border: 10px;
+    width: 350px;
+    height: 300px;
+    margin-left: 30px;
+    display: inline-block;
+}
+
+#image1{
+    position: relative;
+    top: 0%;
+    left: 40%;
+
+}
+
+#div4{
+    background-color: red;
+    padding: 10px;
+    height: 50px;
+
+}
+
+#div5{
+    display: inline-block;
+    width: 350px;
+    color: white;
+    margin-left: 15px;
+}
+
+#button2{
+    margin-left: 120px;
+    background-color: red;
+    color: white;
+    border-color: white;
+
+}
+
+#div6{
+    width: 40%;
+    height: 100px;
+    margin-left: 30px;
+    margin-top: 40px;
+    padding: 30px;
+    background-color: white;
+    border: solid 1px;
+    display: inline-block;
+
+}
+
+#div7{
+    width: 40%;
+    height: 100px;
+    margin-left: 30px;
+    background-color: red;
+    display: inline-block;
+    margin-top: 40px;
+    padding: 30px;
+    vertical-align: top;
+    position: relative;
+}
+
+#name1{
+    position: absolute;
+    top: 35%;
+    left: 15%;
+    font-size: xx-large;
+    color: white;
+    margin-bottom: 2px;
+}
+
+#name2{
+    position: absolute;
+    top: 35%;
+    left: 35%;
+    font-size: xx-large;
+    color: white;
+
+}
+
+#name3{
+    position: absolute;
+    top: 35%;
+    left: 55%;
+    font-size: xx-large;
+    color: white;
+}
+
+#name4{
+    position: absolute;
+    top: 35%;
+    left: 75%;
+    font-size: xx-large;
+    color: white;
+}
+
+#div9{
+    width: 100%;
+    height: 200px;
+}
+
+#div8{
+    height: 200px;
+    width: 370px;
+    display: inline-block;
+    margin-left: 30px;
+
+}
+
+#span3{
+    border-left: 6px;
+    background-color: white;
+    height: 50px;
+    
+}
